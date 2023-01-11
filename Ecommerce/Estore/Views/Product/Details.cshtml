@@ -1,0 +1,22 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Detailed Products";
+}
+
+<div>
+
+    <h2>Product Details</h2>
+    @{
+        Product theProduct =(Product)ViewData["product"];
+
+        <p> Id: @theProduct.Id</p>
+        <p> Title: <b> <u></u>@theProduct.Name</b></p>
+        <p> Description: @theProduct.Description</p>
+        <p> Unit Price: @theProduct.UnitPrice</p>
+
+
+    }
+
+
+
+</div>

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A562C289-289B-43C3-9D84-4B12FA049B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoL", "Bol\BoL.csproj", "{8B8106B1-5E07-4CA5-AC96-ED05A0439311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daL", "dal\daL.csproj", "{6148BF07-690D-470D-8E83-082ABDCF5644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estore", "Estore\Estore.csproj", "{1AE90AD0-729B-41DB-B21E-62C25F24B6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A562C289-289B-43C3-9D84-4B12FA049B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A562C289-289B-43C3-9D84-4B12FA049B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A562C289-289B-43C3-9D84-4B12FA049B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A562C289-289B-43C3-9D84-4B12FA049B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8106B1-5E07-4CA5-AC96-ED05A0439311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8106B1-5E07-4CA5-AC96-ED05A0439311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8106B1-5E07-4CA5-AC96-ED05A0439311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8106B1-5E07-4CA5-AC96-ED05A0439311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6148BF07-690D-470D-8E83-082ABDCF5644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6148BF07-690D-470D-8E83-082ABDCF5644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6148BF07-690D-470D-8E83-082ABDCF5644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6148BF07-690D-470D-8E83-082ABDCF5644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE90AD0-729B-41DB-B21E-62C25F24B6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE90AD0-729B-41DB-B21E-62C25F24B6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE90AD0-729B-41DB-B21E-62C25F24B6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE90AD0-729B-41DB-B21E-62C25F24B6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

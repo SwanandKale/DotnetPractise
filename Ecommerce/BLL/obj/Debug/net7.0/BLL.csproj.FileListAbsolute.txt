@@ -1,0 +1,17 @@
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\BLL.dll
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\BOL.dll
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\DAL.dll
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\DAL.pdb
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\bin\Debug\net7.0\BOL.pdb
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.dll
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Dotnet-Workspace\Day_10_Asp.net\Ecommerce\BLL\obj\Debug\net7.0\ref\BLL.dll
